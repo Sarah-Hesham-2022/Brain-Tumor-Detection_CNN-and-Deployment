@@ -9,4 +9,4 @@ Also at the end I am saving the model.h5 on google drive, so there will be a con
 
 At the end I have made a python code to use my .h5 file, i.e. deep learning model to test new data randomly selected from the internet. Simple Model Deployment.
 
-I have also uploaded the random pictures 10.
+I have also uploaded the random pictures from google search 10.
