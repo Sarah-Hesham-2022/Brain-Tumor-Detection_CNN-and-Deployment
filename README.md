@@ -5,6 +5,8 @@
 
 -Data was installed from kaggle.com and it contained images of normal brain cts and brain with tumor cts
 
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
 -The task was to classify these images using CNN.
 
 -The accuracy was 93.02% .
